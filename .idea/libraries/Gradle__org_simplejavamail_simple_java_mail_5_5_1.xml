@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.simplejavamail:simple-java-mail:5.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.simplejavamail/simple-java-mail/5.5.1/815e81dd14a474f1e6b35d8bc1494c442145299/simple-java-mail-5.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.simplejavamail/simple-java-mail/5.5.1/9a1ae4ebc260c3433418268253affac20e58173d/simple-java-mail-5.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

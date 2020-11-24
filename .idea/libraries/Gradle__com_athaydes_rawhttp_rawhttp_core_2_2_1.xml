@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.athaydes.rawhttp:rawhttp-core:2.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.athaydes.rawhttp/rawhttp-core/2.2.1/b4bb4315d3a2edfc862955d3a1d2643ca13154df/rawhttp-core-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.athaydes.rawhttp/rawhttp-core/2.2.1/ff59cf9b8facc66e5850d38d4305253ae7b421ce/rawhttp-core-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
